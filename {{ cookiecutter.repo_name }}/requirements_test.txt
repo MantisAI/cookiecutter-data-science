@@ -1,0 +1,6 @@
+awscli
+black
+flake8
+ipdb
+pytest
+tox
