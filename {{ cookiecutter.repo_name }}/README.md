@@ -4,6 +4,7 @@
 
 ## Project Organization
 
+```
 .
 ├── data
 │   ├── external        <- Data from third party sources.
@@ -28,6 +29,7 @@
 │   └── visualization
 ├── tox.ini             <- tox file for use with tox for testing in various environments
 └── unpinned_requirements.txt   <- unpinned requirements. A list of dependencies not pinned to versions.
+```
 
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
